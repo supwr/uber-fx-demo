@@ -1,6 +1,6 @@
 # Uber Fx by example
 
-Testing several ways to use dependency injection with [fx](https://github.com/uber-go/fx) by creating a small app that consumes a simple [API](http://randomuser.me/api/) and prints it at the console.
+Testing several ways to use dependency injection with [fx](https://github.com/uber-go/fx) by creating a small app that consumes a simple [API](http://randomuser.me/api/) that returns a random user's data and prints it at the console.
 
 There is a folder for each approach of using dependency injection with uber fx:
 
