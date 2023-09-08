@@ -6,7 +6,7 @@ There is a folder for each approach of using dependency injection with uber fx:
 
 ### v1
 
-The vanilla way of injecting the dependencies, by using `func init()` in the `main.go` file to instantiate the needed object and then passing it to the struct.
+The Golang's vanilla way of injecting the dependencies, by using `func init()` in the `main.go` file to instantiate the needed object and then passing it to the struct.
 
 
 To run this version:
